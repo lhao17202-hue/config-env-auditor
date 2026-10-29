@@ -1,0 +1,4 @@
+interface:
+  display_name: "Config Env Auditor"
+  short_description: "Audit config and env risks"
+  default_prompt: "Use $config-env-auditor to audit this project configuration, environment variables, and runtime settings."
